@@ -1,2 +1,2 @@
-# homepage
-My very own personal website. Basically this is just a résumé.
+# Homepage
+Ryu's personal website. Basically this is just a résumé.
